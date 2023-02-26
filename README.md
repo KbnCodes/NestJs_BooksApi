@@ -3,11 +3,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-GET /books: get a list of all books 
-GET /books/:id: get a single book by ID 
-POST /books: create a new book 
-PUT /books/:id: update an existing book by ID 
-DELETE /books/:id: delete an existing book by ID
+- GET /books: get a list of all books 
+- GET /books/:id: get a single book by ID 
+- POST /books: create a new book 
+- PUT /books/:id: update an existing book by ID 
+- DELETE /books/:id: delete an existing book by ID
 
 ## Installation
 
